@@ -1,0 +1,11 @@
+match_id,season,date,venue,team1,team2,toss_winner,toss_decision,winner,win_by_runs,win_by_wickets,player_of_match,team1_score,team2_score,top_scorer,top_wicket_taker
+1,2025,2025-03-23,Wankhede Stadium,MI,CSK,MI,bat,MI,15,0,Rohit Sharma,165,150,Suryakumar Yadav,Jasprit Bumrah
+2,2025,2025-03-26,Eden Gardens,RCB,MI,RCB,field,RCB,0,4,Virat Kohli,140,141,Virat Kohli,Mohammed Siraj
+3,2025,2025-03-29,Chepauk,CSK,RCB,RCB,field,RCB,0,6,Faf du Plessis,178,174,Faf du Plessis,Wanindu Hasaranga
+4,2025,2025-04-01,Chinnaswamy,DC,KKR,DC,bat,KKR,23,0,Andre Russell,155,132,Nitish Rana,Sunil Narine
+5,2025,2025-04-04,Feroz Shah Kotla,KKR,DC,DC,bat,DC,10,0,Rishabh Pant,145,135,David Warner,Axar Patel
+6,2025,2025-04-07,Wankhede Stadium,RR,SRH,RR,field,RR,5,2,Jos Buttler,162,160,Sanju Samson,Yuzvendra Chahal
+7,2025,2025-04-10,Eden Gardens,LSG,PBKS,LSG,bat,LSG,8,0,KL Rahul,172,165,Nicholas Pooran,Mark Wood
+8,2025,2025-04-13,Chepauk,GT,MI,GT,field,GT,45,0,Shubman Gill,180,135,Shubman Gill,Mohit Sharma
+9,2025,2025-04-16,Chinnaswamy,SRH,LSG,SRH,bat,SRH,20,0,Aiden Markram,160,140,Heinrich Klaasen,Bhuvneshwar Kumar
+10,2025,2025-04-19,Feroz Shah Kotla,PBKS,GT,GT,bat,GT,33,0,Rashid Khan,185,152,David Miller,Rashid Khan
