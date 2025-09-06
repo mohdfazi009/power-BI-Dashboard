@@ -39,7 +39,4 @@ This project focuses on visualizing **IPL data** using **Power BI**. The dashboa
 * Year-wise **IPL score comparisons**
 * Insights into **match trends and statistics**
 
----
-
-
-Do you want me to prepare the **Zomato dashboard README** too?
+https://github.com/mohdfazi009/power-BI-Dashboard/blob/main/IPL_2025_Moderate.csv
